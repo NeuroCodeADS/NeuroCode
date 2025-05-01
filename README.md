@@ -4,3 +4,4 @@
 Transformar a forma como as pessoas aprendem tecnologia, usando 
 inteligência artificial e neurociência para oferecer uma educação 
 personalizada, acessível e eficiente.
+
