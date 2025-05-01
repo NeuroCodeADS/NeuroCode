@@ -1,8 +1,7 @@
-![Auto Assign](https://github.com/NeuroCodeADS/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# Bem-Vindos a NeuroCode
+“Seu cérebro, seu ritmo, seu código.”
+# Onde nossa missão é
+Transformar a forma como as pessoas aprendem tecnologia, usando 
+inteligência artificial e neurociência para oferecer uma educação 
+personalizada, acessível e eficiente.
 
-![Proof HTML](https://github.com/NeuroCodeADS/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
