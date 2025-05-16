@@ -1,21 +1,26 @@
-# Security Policy
+# 🔒 Security Policy
 
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## ✅ Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.1.x   | ✅ Suportado       |
+| 5.0.x   | ❌ Não suportado   |
+| 4.0.x   | ✅ Suportado       |
+| < 4.0   | ❌ Não suportado   |
 
-## Reporting a Vulnerability
+> 💡 **Nota:** Somente as versões listadas como **suportadas** recebem atualizações de segurança.
 
-Use this section to tell people how to report a vulnerability.
+---
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## 🛡️ Histórico de Segurança
+
+Até o momento, **nenhuma vulnerabilidade de segurança foi registrada** em nossos sistemas.  
+Isso é reflexo de uma abordagem preventiva, com monitoramento contínuo e aplicação de boas práticas em cibersegurança.
+
+Utilizamos:
+
+- 🔐 **Criptografia de dados** em trânsito e em repouso
+- 🧠 **Auditorias internas periódicas**
+- 🧰 **Ferramentas automatizadas de verificação de vulnerabilidades**
+- 📊 **Monitoramento**
