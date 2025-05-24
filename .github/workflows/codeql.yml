@@ -40,12 +40,15 @@ jobs:
         uses: actions/checkout@v4    # 🔽 Clona o repositório no runner
 
       # 🛠️ Inicializa o CodeQL para a linguagem especificada
+      # 🛠️ Inicializa o CodeQL para a linguagem especificada
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
         with:
           languages: ${{ matrix.language }}
           build-mode: ${{ matrix.build-mode }}
-          # Você pode definir queries personalizadas aqui:
+          # Remove the tools input or provide a valid path
+          # tools: /  # ❌ This line is invalid and should be removed
+          # Optionally, you can add custom queries here:
           # queries: +security-extended
 
       # ⚙️ Etapa opcional de build (usada se build-mode == manual)
