@@ -45,6 +45,7 @@ jobs:
         with:
           languages: ${{ matrix.language }}
           build-mode: ${{ matrix.build-mode }}
+          tools: /                     # Disables default setup explicitly
           # Você pode definir queries personalizadas aqui:
           # queries: +security-extended
 
